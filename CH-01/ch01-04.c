@@ -26,3 +26,5 @@ int main()
     printf("Circumference of Circle is %f and Area is %f\n", circmf, area_cir);
     return 0;
 }
+
+// ---END OF CHAPTER 2---
